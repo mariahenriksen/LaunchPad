@@ -1,0 +1,42 @@
+# LaunchPad
+Program Brief: https://docs.google.com/document/d/19oIqib9ZGAjSV86TXkz9gQjqivyrXmZP9lmPtz1BX_E/edit#heading=h.kmtg2esz67n0 <br>
+
+WHY are we doing this program?
+Our current website does not adequately show how powerful the interconnected community is, nor does it accurately highlight our current product offering. There’s a lack of understanding around GitHub’s Enterprise offering, and self-serve revenue has been stagnant or on the decline.  The current site navigation makes it incredibly difficult for visitors to find information and conversion CTAs are not optimized for key personas. 
+From a visual standpoint, GitHub’s marketing website feels dated and different pages feel very out of sync from one another. We need to refresh our look & feel to reflect GitHub’s best-in-class aesthetic and experience. The visual approach needs to allow visuals to flex across a spectrum so it resonates with both our developer and enterprise audiences, while still maintaining a 
+
+<b>High Level Goals</b>
+1: Clear product story & easy pathways for discovery and conversion across all platforms
+2: Uplevel the marketing site to have a modern, world-class design that consistently looks and feels like GitHub
+Improved business metrics 
+- Enterprise pipeline 
+- Self-serve revenue 
+- Signups
+3: Effective seasonal CTAs (HQ reveals, event tickets, product betas sign-ups, product and/or core technology pages, etc)
+4: Employee pride & use of the website in customer comms
+5: Improved SEO 
+6: Provide clearer visibility to marketing pages and/or new features and programs from logged-in experience.
+
+
+SPECIFIC PROJECTS:
+
+<b>Homepage Goals:</b>
+Primary KPI: GitHub Signups -- what % improvement? 
+Secondary KPIs: 
+Better product comprehension of GitHub’s offering, measured by qualitative feedback
+Clicks to other parts of the website. Lowered bounce rate -- what % improvement
+
+<b>Enterprise page Goals:</b>
+Primary KPI: Cloud Trials and Contact Sales requests -- what % improvement?
+Secondary KPIs:
+Better comprehension of the GitHub Enterprise offering. By the time sales speaks to a prospect, they have a solid understanding of the product value. 
+Higher deal size (attach rate) 
+
+<b>Features page - Why GitHub?</b>
+KPIs to come
+
+<b>Team page</b>
+KPIs to come
+
+
+
