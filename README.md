@@ -29,30 +29,30 @@ Improved business metrics
 
 <b>Homepage Goals:</b><br>
 Primary KPI: <br>
-GitHub Signups -- what % improvement? 
+GitHub Signups -- what % improvement? <br>
 Secondary KPIs: <br>
-1: Better product comprehension of GitHub’s offering, measured by qualitative feedback
-2: Clicks to other parts of the website. Lowered bounce rate -- what % improvement
+1: Better product comprehension of GitHub’s offering, measured by qualitative feedback<br>
+2: Clicks to other parts of the website. Lowered bounce rate -- what % improvement<br>
 Workback schedule:<br>
 To come
 
 <b>Enterprise page Goals:</b><br>
 Primary KPI: <br>
-Cloud Trials and Contact Sales requests -- what % improvement?
+Cloud Trials and Contact Sales requests -- what % improvement?<br>
 Secondary KPIs:<br>
-1: Better comprehension of the GitHub Enterprise offering. By the time sales speaks to a prospect, they have a solid understanding of the product value. 
-2: Higher deal size (attach rate) 
+1: Better comprehension of the GitHub Enterprise offering. By the time sales speaks to a prospect, they have a solid understanding of the product value. <br>
+2: Higher deal size (attach rate) <br>
 Workback schedule:<br>
 To come
 
 
 <b>Features page - Why GitHub?</b><br>
-KPIs to come
+KPIs to come<br>
 Workback schedule:<br>
 To come
 
 <b>Team page</b><br>
-KPIs to come
+KPIs to come<br>
 Workback schedule:<br>
 To come
 
