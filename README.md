@@ -6,6 +6,7 @@ Program Owners: Kelly Stirman & Amanda Swan
 Program is being managed in Asana:<br>
   https://app.asana.com/0/portfolio/1159402789677209/list</i><br>
 
+---------------------------------------------------------------------------------------------------------------------------
 <b><i>WHY are we doing this program?</i></b><br>
 Our current website does not adequately show how powerful the interconnected community is, nor does it accurately highlight our current product offering. There’s a lack of understanding around GitHub’s Enterprise offering, and self-serve revenue has been stagnant or on the decline.  The current site navigation makes it incredibly difficult for visitors to find information and conversion CTAs are not optimized for key personas. 
 From a visual standpoint, GitHub’s marketing website feels dated and different pages feel very out of sync from one another. We need to refresh our look & feel to reflect GitHub’s best-in-class aesthetic and experience. The visual approach needs to allow visuals to flex across a spectrum so it resonates with both our developer and enterprise audiences, while still maintaining a 
@@ -22,6 +23,7 @@ Improved business metrics
 5: Improved SEO 
 6: Provide clearer visibility to marketing pages and/or new features and programs from logged-in experience.
 
+---------------------------------------------------------------------------------------------------------------------------
 
 <b><i>SPECIFIC PROJECTS:</i></b>
 
